@@ -1,0 +1,11 @@
+<CREOLE-DIRECTORY>
+	<JAR SCAN="true">OpenSextantCRF.jar</JAR>
+	<JAR SCAN="false">lib/jackson-core-asl.jar</JAR>
+	<JAR SCAN="false">lib/jackson-mapper-asl.jar</JAR>
+	<JAR SCAN="false">lib/jcarafe-core_2.9.1.jar</JAR>
+	<JAR SCAN="false">lib/log4j.jar</JAR>
+	<JAR SCAN="false">lib/sbinary_2.9.0.jar</JAR>
+	<JAR SCAN="false">lib/scala-library.jar</JAR>
+	<JAR SCAN="false">lib/slf4j-api.jar</JAR>
+	<JAR SCAN="false">lib/slf4j-log4j12.jar</JAR>
+</CREOLE-DIRECTORY>
